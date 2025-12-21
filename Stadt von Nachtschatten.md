@@ -1,0 +1,2 @@
+- Handel verläuft per Karawanen, sitzt an einer großen Seidenstraße
+- 
