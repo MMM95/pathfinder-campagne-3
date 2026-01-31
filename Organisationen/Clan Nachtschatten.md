@@ -1,7 +1,7 @@
 **Alignment:** LE
 **Hauptsitz:** [[Schwarzbruck]]
 **Familienoberhaupt:** [[Lord Edgar von Nachtschatten]]
-**Wappen**: Die Blüte eines Nachtschattengewächses mit einem Dolch gekreuzt
+**Wappen**: Die Blüte eines Nachtschattengewächses mit einem Dolch gekreuzt, goldenes Metall
 **Motivation**:
 - Seiden- und damit verbunden Opiumhandel beschützen/wiederherstellen
 - Mehr Macht (Ländereien, Business, ...) an sich reißen und sich an [[Haus Dämmerlilien]] rächen

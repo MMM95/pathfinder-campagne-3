@@ -1,0 +1,43 @@
+Mo: Victor Lambart
+- Investigator
+- Handelsbeamter/Diplomat
+Max: Murin Yaga
+- Hedgewitch
+- Ist Dorfheiler
+Benny: Arthan 
+- Halfelf, Händlerfamilie
+- Oracle
+- Wurde aus Familie verbannt
+- Hat einen Human Zombie Fighter (Eredan) dabei
+- Mysterie Juju Oracle
+- Curse Shattered Psyche
+David: Fraziskus
+- Ratfolk, Alchemist
+- Schmuckbehangen, rot braunes Fell
+- Mit Mantel unterwegs
+
+
+TODO:
+- 1x extra Sprache pro Int Bonus
+
+Notizen:
+- Seit 6 Jahren Spannungszyklen, davor war es besser, vor allen in den "Goldenen Zeiten"
+- [[Haus Dämmerlilien]] hat die meisten alleine gelassen solange man Steuern und Zölle gezahlt hat
+- [[Haus Dämmerlilien]] hat die stärksten Soldaten, Magier, ... eingezogen haben
+	- Von den meisten hat man nichts mehr gehört, manche haben sich schriftlich gemeldet
+- Wir starten im November und über das Jahr hinweg wurde alles schlimmer
+	- Wird alles düsterer, wie im Auge eines Sturms, Wetterphänomene
+- Viele Leylinien laufen in der [[Hauptstadt]] zusammen
+	- Ort wo wir hin gehen um herauszufinden was passiert
+	- Schließen uns Flüchtlingskolonne an zur Stadt
+	- Haben ein Passierschein
+- 5 Tage in dem Lager, aber wir kommen nicht weiter nach vorne, gefangen wie in einer Timeloop
+- Sind in ein anderes Lager wo wir durchgelots wurden mit 10 Tage Erlaubnis
+- Nachtschatten Seidenkontor ist im Hafenviertel (wichtigstes Viertel)
+- Das Wahrzeichen, der Leuchtturm, war von außen gar nicht sichtbar was komisch ist
+	- Rotes Licht geht vom Leuchtturm aus aber das ist normal
+- Dreckige Klamotten, als erstes wird ein Waschhaus aufgesucht
+- Wurde im Händlerviertel rumgeführt und wurden auf einem Turm geparkt
+	- Wurden dann auf einmal von Wachen eine Kapuze aufgezogen
+	- Kapuze wurde abgezogen, Blick gen Leuchtturm gerichtet, wurden gefragt was wir sehen
+	- Habe es normal beschrieben und haben dann einen Schlag auf den Kopf bekommen

@@ -1,0 +1,2 @@
+- 2,5m hoch, große Kriegsgleven, Vollhelmen, Obsidianglasrüstung
+- Haut ist Aschfahl, Augen sind Nachtschwarz
