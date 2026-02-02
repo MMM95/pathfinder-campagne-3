@@ -1,0 +1,7 @@
+- Spieler: Benny
+- Halfelf, Händlerfamilie
+- Oracle
+- Wurde aus Familie verbannt
+- Hat einen Human Zombie Fighter (Eredan) dabei
+- Mysterie Juju Oracle
+- Curse Shattered Psyche

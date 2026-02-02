@@ -1,16 +1,7 @@
-Mo: Victor Lambart
-- Investigator
-- Handelsbeamter/Diplomat
-Max: Murin Yaga
-- Hedgewitch
-- Ist Dorfheiler
+
+
 Benny: Arthan 
-- Halfelf, Händlerfamilie
-- Oracle
-- Wurde aus Familie verbannt
-- Hat einen Human Zombie Fighter (Eredan) dabei
-- Mysterie Juju Oracle
-- Curse Shattered Psyche
+
 David: Fraziskus
 - Ratfolk, Alchemist
 - Schmuckbehangen, rot braunes Fell
@@ -18,7 +9,7 @@ David: Fraziskus
 
 
 TODO:
-- 1x extra Sprache pro Int Bonus
+- 1x extra Sprache für Int Bonus steht noch aus
 
 Notizen:
 - Seit 6 Jahren Spannungszyklen, davor war es besser, vor allen in den "Goldenen Zeiten"
