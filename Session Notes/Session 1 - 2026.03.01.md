@@ -1,0 +1,86 @@
+- Wir wachen auf nach dem Schlag auf den Kopf, alles etwas benommen, kaputt
+	- Verschiedene Gerüche: Desinfektionsmittel, Holzlasur
+	- Sind auf einem sehr sehr großem Schiff?
+	- Sind in einem kleinen Raum, Sargähnlich beengter Raum mit einer Seite offen
+		- Wie in einem Wandschrank eingesperrt => Kajüten
+- Haben eine silberne Marke mit einer Nummer (komisches Elfisch) drauf
+- Zettel mit Infos wo man die persönliche Gegenstände entgegen nehmen kann
+	- Irgendwo, vermutlich kommen wir aber nicht einfach dran
+- Hunderte Leute sind hier untergebracht
+- Wache läuft hier durch
+- Alle haben ein schmales, aber edel wirkendes Metallhalsband, unterdrückt Magie
+- Jeder ist komisch apathisch, gleichgültig, wenig besorgt
+- Werden von nicht-Elfen (glatzköpfig, schwarz glühende Augen) aber passend gekleidet abgeführt
+	- Sehen alle relativ gleich aus
+	- Kaum elfische Wachen unterwegs, elfische Wachen sind an den Durchgängen zu den oberen und unteren Decks stationiert
+- Werden in einem riesigen Lazarett im Schiff körperlich untersucht
+	- Lauter verschiedene Gesundheitschecks den ganzen Tag über
+	- Quasi Musterungstests
+- Leute die in den Kajüten weitergeschlafen haben fehlen auf einmal am nächsten Morgen => fehlende Kooperation führt zu Ausmusterung?
+- Jeder bekommt ein gewisses Trainingsstundenkontingent und Arbeitsstundenkontingent, wodurch unser "Einsatzstatus" aufrecht erhalten wird
+- Valon ist Anführer der Gruppe und auch damit verantwortlich
+- Sind auf der Suche nach unseren Gegenständen im Versorgungsdeck
+- Haben alle einen feinen Schnitt über dem Herzen
+	- Alles scheint high-end Heilkunst zu sein
+	- Nur die Leute die frei rum laufen können, haben diesen Schnitt und haben eine leicht andere weiße Kleidung
+		- Ist merkwürdig gestaltet, als ob z.B. ein Tier die Farben anders wahr nehmen würden => Haben die komischen Elfen das?
+- Im Versorgungsdeck sieht es wie bei Gringotts aus, nur dass an den Schaltern lauter Elfen sitzen
+	- Haben nicht den Freigabestatus für unsere Gegenstände, bekommen aber stattdessen "Basisressourcen" => Verbandskit, zweites paar Socken, ...
+- Haben alles was vorher war vergessen, unsere Vergangenheit fehlt komplett
+- Kommen in eine große Produktionshalle, wo wir alle "uns" spezifische Workloads bekommen
+	- Propagandaposter, Portraits von Obrigkeiten, ...
+		- Massives Banner welche den Großkapitän des Schiffes darstellt
+		- Es hat 4 Schiffe mit equivalenten Kapitänen
+	- Die Arbeiten sind relativ normal, erschließen sich was man zu tun haben
+		- Nach der Arbeit fühlt man sich irgendwie richtig gut
+- Trainingshalle ist ähnlich
+	- Großes Banner von einem Kriegspriester Vorel ausgehangen, wie eine Schlachtendarstellung wo er triumphant da steht
+	- Überall Trainingskäfige, Kampf mit stumpfen Blankwaffen
+	- Volles Kriegstraining in allen Variationen, jedoch alles nur physisch, nicht magisch Training
+	- Verletzungen werden äußert gut geheilt, aber "traditionell"
+	- Verschiedenste Einsatzszenarien, Trainingseinheiten, ...
+- Monate sind vergangen in welchen wir trainiert und gearbeitet haben
+- Sakralbau
+	- Auch hier hängt ein unendlich großes Banner vom Großkapitän, ein kleineres des Kriegspriester Vorel und noch ein kleineres von Shael, eine Elfin
+	- Erfahren die Geschichte des [[Großkapitän]], [[Kriegspriester Vorel]] und [[Shael]]
+	- Werden hier "gelehrt", aber alles sehr überdramatisch und verherrlichend der herrschenden Elfen
+- Nach Monaten werden wir an ein Deck höher versetzt
+	- Unsere persönliche Gegenstände werden auch ein Deck höher versetzt
+	- Lebensumstände haben sich sehr leicht verbessert
+	- Bekommen mehr berufsspezifischere Kleidung, die Arbeit etwas weniger stupide, Arbeitsstunden weniger
+		- Mehr organisatorische, koordinierende Arbeiten
+	- Drills werden härter und spezifischer, Trainingsstunden mehr, koordinierte Gruppendrills
+	- Vermehrt Schreibübungen für die Zauberkundigen
+	- Schmerzen in der Brust werden stärker, immer mehr medizinische Untersuchungen
+- Werden weitere 3-4x hochgestuft
+	- Und jetzt kommen auch Drills mit den komischen Elfen ab und zu vor
+	- Auch spezifische Trainingseinheiten in spezifischen Hangars: Seegangstraining, Absprünge, Schiffstraining
+- Großer Tag kommt wo uns die Halsbänder abgenommen werden und alles Schlachtbereit gemacht wird
+	- Haben das Gefühl wir werden angegriffen und auf einmal werden wir in einem "Droppod" rausgeschleudert
+	- Fallen durch eine schwarze Suppe, abseits von dem Schiff
+	- Das ganz große Schiff ist im Astralwind "geschwommen", während wir mit unserem Droppod davon abgesprungen sind, fallen durch eine Art Kosmos
+	- Das gigantische Schiff auf welchem wir waren wurde von irgendwas angegriffen
+	- Fallen auf eine große Insel zu mit einem Vulkan in der Mitte, Küste, Wald, nördlich Wüste
+	- Auf einmal sind wir nicht mehr emotional gedämpft als wir auf der Landezone ankommen
+	- Helfen Zelte aufstellen, Lager bauen, es entsteht ein Zeltlager am Strand
+- Haben eine Art Schatten von einem Tattoo, welches genau so wie die Tattoos bei den Leichen haben wir im Von Nachtschatten Kontor
+	- Haben nicht unsere persönliche Gegenstände bekommen sondern de-personalisierte Abbilder davon, die die gleiche Funktion erfüllen aber keine persönliche Funktion haben
+	- Alle drei große Persönlichkeiten ([[Großkapitän]], [[Kriegspriester Vorel]], [[Shael]]) sind auch dabei
+	- Dem Lager fehlen Ressourcen, als ob so ein früher Absprung nicht geplant war
+- Gehen die natürliche Rampe hinauf in den Dschungel, weg vom Strand zum Erkunden und Ressourcen beschaffen
+	- Keine Geräusche, alles sehr feucht, Morast
+- Sobald wir im Dschungel sind, kehrt die Geräuschkulisse zurück
+
+**Combat**
+- Ini 19
+- Combat mit Puma, über uns sind Affen-Humanoide welche uns unterstützt haben, aber nicht direkt kommunizieren
+- Affen-Humanoide haben ein primitives Wegesystem in den Baumwipfeln
+
+- Haben eine Steinplatte gefunden mit einer Symbolik von 2 Sonnen und 2 Monden, wobei in der Realität aktuell nur 1 Mond zu sehen war
+	- Ist es eine Ruine? Woher kommt die Steinplatte?
+- Die Tag/Nacht Zyklen wechseln sehr stark, kaum Dämmerung
+- Berichten alles im Lager und wir werden verhört
+	- Die Magier spinnen wie eine Art Faden aus unseren Köpfen und aus der Wunde in unserer Brust um unsere Gedanken zu lesen
+- Haben unser eigenes kleines Zeltabteil
+
+Weiter mit Spähdienst bei der nächsten Session

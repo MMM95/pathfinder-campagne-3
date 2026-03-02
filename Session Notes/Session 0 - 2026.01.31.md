@@ -1,13 +1,3 @@
-
-
-Benny: Arthan 
-
-David: Fraziskus
-- Ratfolk, Alchemist
-- Schmuckbehangen, rot braunes Fell
-- Mit Mantel unterwegs
-
-
 TODO:
 - 1x extra Sprache für Int Bonus steht noch aus
 
