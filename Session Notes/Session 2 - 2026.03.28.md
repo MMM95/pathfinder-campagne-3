@@ -1,0 +1,23 @@
+Anwesend:
+- [[Arthan - Benny]]
+- [[Fraziskus Ratford - David]]
+- [[Murin Yaga - Max]]
+- [[Victor Lambart - Mo]]
+
+# Session Notes
+Die Session beginnt in einer privaten, abgetrennten Zeltkammer nach dem magischen Verhör. Wir beschließen zu Rasten und am nächsten Tag neu versorgt in den Dschungel zu gehen. Wir können uns maximal drei Rationen pro Person ausgeben lassen und suchen anschließend den Weg zurück zur Steinplatte. Sobald wir die "Kante" des Dschungels übertreten wird es schwül und heiß fast als würde man in eine andere Welt übertreten. Spuren sind nur kurz am Boden sichtbar.
+Unter dem Moos und der Bewachsung befindet sich eine unhomogene Schicht, die fast wie ein Trümmerfeld wirkt. Ein obsidianfarbenes Band das auf dem Boden verläuft sticht heraus. Es stellt sich als Brustkorb und Wirbelsäule eines nicht menschlichen Wesens heraus. Es ist uns nicht möglich einen Teil davon abzutrennen. 
+Ratford findet einen großen Ring und als er sich diesen unbedacht über den Finger schiebt verschmilzt dieser mit seiner Haut. Der Ring besteht aus organisch wirkenden Metallstrukturen (Ring of Sustainance (tainted)). 
+Wir finden im Umfeld eine zerstörte Brücke und einen Fluss, sowie einen Weg mit einem in Stein gehauenes Tor unterhalb der Klippe, aber erreichbar. Dort scheint auch eine weitere Brücke zu sein. Hinter dem Steintor befindet sich eine in den Fels gehauene Kammer mit Wegen. Die Wände sehen fast wie verglast aus. Wir schaffen es die Gaffen in der Kammer zu vertreiben. An den Wänden der Kammer befinden sich in den Stein gehauene Figuren verschiedener Geschlechter. Die weiblichen Figuren sind Monden zugeordnet, die männlichen Figuren sind Sonnen zugeordnet. Es wiederholen sich große und kleine Symbole, während die Himmelskörper immer einem ähnlichen Größenverlauf folgen. Die dort abgebildeten "Herrscherpaare" sitzen auf Ziguraten und haben große Nasen, sowie Federschmuck und weiteren Schmuck (erinnert an Mesopotamien). Ich zeichne das Wandbild ab. Wir beschließen hier zu Rasten als die Nacht hereinbricht.
+[[Fraziskus Ratford - David]] wird während der Nachtwache von einem dunkelhäutigen Feind bedroht (Glatze, Schmuck aus Bronze im Gesicht in Mondform, oberkörperfrei mit Messer bewaffnet). Hinter ihm eine weitere Gestalt mit Blasrohr. Die Situation eskaliert und einer der beiden wird verwundet, die Haut scheint sehr widerstandsfähig zu sein, es zischt als eine Wunde entsteht.
+Über Knowledge kriegen wir folgende Assoziationen zu den Fremden:
+- nachtaktiv
+- Schmuck in Mondform
+- Gift
+- Teil des Tag-/Nacht-Zyklus der Insel
+- menschengroß
+- klettern mit Seil aus Spinnenfäden (?!)
+Am nächsten Tag überqueren wir die Brücke und finden auf der anderen Seite eine ähnliche Höhle. Außerhalb dieser finden wir Bäume die rituell angezapft wurden (analog zu Ahornsirup oder Kautschuk). Ein Baum wurde anders angezapft und sieht verletzt aus. Als ich den Baum untersuche werden wir von Ranken umschlungen und eine Frau ([[Rascha]]) mit bronzefarbener Haut tritt aus dem Unterholz. Sie trägt eine Stangenwaffe aus Obsidian, Schmuck mit Jade, große Scheiben auf der Stirn (Sonne?!). Sie wirkt comprehend language auf uns. "Faulbrut des Sternenfalls was schreitet ihr auf unseren Pfaden?". Sie hat Sonnen- und Mond-Symbole auf sich. Ich versuche ihr zu erklären dass wir unfreiwillig verschleppt wurden und nicht wirklich verbündet sind mit dem [[Haus Dämmerlilien]]. Wir werden mal wieder verschleppt. 
+Wir finden uns in einer Hütte in anderer Kleidung vor einem großen Objekt aus Stein mit Messern wieder. Es sieht für einen Moment so aus als ob wir in einem Ritual geopfert werden. Die Frau trägt eine Maske und wirbelt durch den Raum. Ihre Vorderseite scheint den Tod, die Rückseite das Leben darzustellen. In dem Steinobjekt wird ein Trank vorbereitet, den wir zu uns nehmen. Das Ritual stellt eine Verbindung von Sonne und Mond, oder auch Leben und Tod dar. Die Frau stellt sich als [[Rascha]] vor und vertritt ihr Volk. Ein vegetarisches Festmahl wird aufgetischt. Es wird uns erklärt dass der Tag-/Nacht-Rhythmus dieser Insel so existiert weil die Tochter geraubt wurde (?! Der Mond?). Wir verabreden uns uns in drei Tagen wieder an der Brücke zu treffen und uns wird nahegelegt unsere Worte und Verbündete weise zu wählen. 
+Wir beschließen im Lager nichts von den Bewohnern der Insel zu erwähnen. Wir werden erneut ausgefragt von den Elfen und untersucht. Es wirkt so als wären wir auf einer Reise durch Zeit und Raum hierher gekommen, das Ziel scheint zu stimmen aber womöglich die Zeit nicht. 
+Wir rasten und versorgen uns neu und wollen dann zum Treffen mit [[Rascha]] aufbrechen.

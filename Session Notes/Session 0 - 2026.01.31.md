@@ -1,6 +1,3 @@
-TODO:
-- 1x extra Sprache für Int Bonus steht noch aus
-
 Notizen:
 - Seit 6 Jahren Spannungszyklen, davor war es besser, vor allen in den "Goldenen Zeiten"
 - [[Haus Dämmerlilien]] hat die meisten alleine gelassen solange man Steuern und Zölle gezahlt hat

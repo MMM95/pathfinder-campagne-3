@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1 - 2026.03.01.md",
+                "file": "Session Notes/Session 0 - 2026.01.31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - 2026.03.01"
+              "title": "Session 0 - 2026.01.31"
             }
           },
           {
@@ -83,104 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1 - 2026.03.01.md",
+                "file": "Session Notes/Session 2 - 2026.03.28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - 2026.03.01"
-            }
-          },
-          {
-            "id": "95783f0e397bac49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Session 2 - 2026.03.28"
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "06a86d9eb8ca3ed7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00fc53c6c45191d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Hauptstadt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hauptstadt"
-            }
-          },
-          {
-            "id": "31dbe8e9cd3cf000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/PCs/Fraziskus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fraziskus"
-            }
-          },
-          {
-            "id": "61a8163c97199132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/PCs/Murin Yaga.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Murin Yaga"
-            }
-          },
-          {
-            "id": "2ae6e59f75f0345e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/PCs/Victor Lambart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Victor Lambart"
-            }
-          },
-          {
-            "id": "a1e5d2d4c61c0a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 0 - 2026.01.31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 - 2026.01.31"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 284.5
   },
   "right": {
     "id": "04acef8a41c0c3fb",
@@ -342,40 +254,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "95783f0e397bac49",
+  "active": "7377f1d96dcba371",
   "lastOpenFiles": [
-    "Personen/NPCs/Shael.md",
     "Session Notes/Session 1 - 2026.03.01.md",
+    "Session Notes/Session 2 - 2026.03.28.md",
+    "Session Notes/Session 3 - 2026.04.18.md",
+    "Personen/PCs/Fraziskus Ratford - David.md",
+    "Sonstiges/Kumulierter Loot.md",
+    "Sonstiges/Loot Images",
+    "Session Notes/Session 0 - 2026.01.31.md",
+    "Orte/Hauptstadt.md",
+    "Sonstiges",
+    "Personen/NPCs/Weißroben.md",
+    "Personen/NPCs/Lilaroben.md",
+    "Personen/PCs/Victor Lambart - Mo.md",
+    "Personen/PCs/Murin Yaga - Max.md",
+    "Personen/PCs/Arthan - Benny.md",
+    "Personen/PCs/Ratford.md",
+    "Personen/Haus Nachtschatten/Valon Nachtschatten - Max.md",
+    "Personen/NPCs/Rascha.md",
+    "Personen/NPCs/Shael.md",
     "Personen/NPCs/Kriegspriester Vorel.md",
     "Personen/NPCs/Großkapitän.md",
     "Personen/NPCs",
     "Personen/Haus Nachtschatten/Aelric Nachtschatten†.md",
     "Personen/Haus Nachtschatten",
-    "Session Notes/Session 0 - 2026.01.31.md",
-    "Orte/Hauptstadt.md",
-    "Personen/Haus Nachtschatten/Valon Nachtschatten.md",
-    "Personen/PCs/Fraziskus.md",
-    "Personen/PCs/Arthan.md",
-    "Personen/PCs/Murin Yaga.md",
-    "Personen/PCs/Victor Lambart.md",
     "Orte/Schwarzbruck.md",
     "Personen/PCs",
     "Personen/PCs.md",
-    "Untitled",
     "Organisationen/Haus Dämmerlilien.md",
     "Organisationen/Clan Nachtschatten.md",
     "Übersicht Clan Nachtschatten.md",
     "Session Notes",
     "Personen/Haus Nachtschatten/Morvella Nachtschatten.md",
-    "Personen/Haus Nachtschatten/Ophelia Nachtschatten.md",
-    "Personen/Haus Nachtschatten/Lord Edgar von Nachtschatten.md",
-    "Personen/Haus Nachtschatten/Lady Eleanor von Nachtschatten.md",
-    "Orte/Wald von TODO.md",
     "Orte",
-    "Untitled.md",
-    "Organisationen/Haus Bellmont.md",
-    "Organisationen/Loxley und Söhne.md",
-    "Organisationen/Haus Ashcroft.md",
     "Organisationen",
     "Sessions",
     "Personen"

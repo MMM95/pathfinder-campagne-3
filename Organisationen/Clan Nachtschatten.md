@@ -10,7 +10,7 @@
 - [[Lord Edgar von Nachtschatten]], Familienoberhaupt, 446 Jahre alt
 - [[Lady Eleanor von Nachtschatten]], Frau des Hauses, 389 Jahre alt
 - [[Aelric Nachtschatten†]], Männlich, Erstgeborener, mit 219 Jahre verstorben
-- [[Valon Nachtschatten]], Männlich, Zweitgeborener, 177 Jahre alt
+- [[Valon Nachtschatten - Max]], Männlich, Zweitgeborener, 177 Jahre alt
 - [[Ophelia Nachtschatten]], Weiblich, Drittgeborene, 112 Jahre alt
 - [[Morvella Nachtschatten]], Weiblich, Viertgeborene, 56 Jahre alt
 

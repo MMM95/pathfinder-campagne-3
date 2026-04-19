@@ -1,5 +1,5 @@
 - LE, male elf, age 177
-- [[Valon Nachtschatten]], ist der Zweitgeborene des Hauses
+- [[Valon Nachtschatten - Max]], ist der Zweitgeborene des Hauses
 - Ist in seidene, byzantiumfarbige Tücher seines Hauses gekleidet 
 - Adliger als "Beruf", kümmert sich um Handel und Verträge, um welche sich sein Vater nicht kümmert
 
