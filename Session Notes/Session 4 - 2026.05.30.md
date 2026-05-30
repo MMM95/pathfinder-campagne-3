@@ -1,0 +1,81 @@
+Anwesend:
+- [[Fraziskus Ratford - David]]
+- [[Victor Lambart - Mo]]
+- [[Murin Yaga - Max]]
+- [[Valon Nachtschatten - Max]]
+
+# Start des Session
+- Wir wollen uns weiter mit [[Rascha]] treffen und stehen jetzt vor der Portalblume aus dem unterirdischen Bau aus [[Session 3 - 2026.04.18]]
+- [[Victor Lambart - Mo]] verbindet sich mit der Blume und löst eine Art Ringrätsel (3-4 Stellringe) um eine "Adresse" zu vermitteln, das Portal öffnet sich und ein Geruch vom frischen Gras und Wasser erfüllt den Raum => [[Quicktravel Waypoint]]
+	- Umso besser man das System versteht, umso mächtiger ist es
+- Tauchen in einem Steinkreis auf wo auch eine Portalblume in der Mitte ist
+	- Uns ist übel und verwirrt durch die Teleportation und für einen kurzen Moment brennt uns der linke Arm, dort wo wir dieses komische Ding haben
+- Blicken vom Steinkreis hinunter auf ein Dorf mit Dorfplatz und auf einer anderen Erhöhung eine Art Ziggurat
+	- Lehmbauten, Strohdächer, Fluss durch den Dorfplatz, Terrassengärten um die Ziggurat
+	- Uns ist nicht bekannt, ob das das gleiche Dorf war wo wir das erste Mal mit [[Rascha]] in Kontakt waren
+	- Gibt ein sehr kultiviertes Bild
+- 6 Menschen mit ungewöhnlicher Kleidung
+	- Bastrock mit Bronzeplatten, Schienbeine mit Jadeartigem Schienbeinschutz und Riemensandalen, grobe Tunika mit Messingplatte, Arme in Armreifen aus Messing und Leder, Messingplatte auf Handrückseite, 2 Meter Stangenwaffe welche wie eine Art Paddel wirkt mit schwarzen Material besetzt
+	- Gesichter bemalt, Haare kunstvoll geflochten
+	- Empfangen uns mit erhobenen Waffen und versuchen zu kommunizieren, dass wir uns mit [[Rascha]] treffen sollen
+	- Hornstoß ertönt, das Dorf reagiert drauf, in der Ziggurat geht eine Flamme auf und Menschen laufen von der Ziggurat uns entgegen
+		- Eine Sänfte wird uns entgegengetragen mit weiteren Wächtern (Elitewache)
+		- Nicht [[Rascha]] empfängt uns, sondern ein sehr athletischer Mann der aber ähnlich aussieht wie sie, ist der **Vater** von ihr
+		- Stellt sich als Gastfreundlich vor, ist demokratisch gewählter König der ein diverses Volk repräsentiert
+		- Erzählt, dass das Land einst im Gleichgewicht war (auf alles bezogen), jedoch hat sich ein Teil des Volkes abgetrennt (oder abgetrennt wurden von äußeren Kräften) sind im Kampf gegen das Volk des Häuptlings
+		- Diese "würgende Hand" (ältere Mächte) hat schwächer Gewillte ins Negative beeinflusst
+		- Sagt uns dass sich hinter den ganzen Problemen, welche sie auch haben, was größeres verbirgt und dass sie nur noch ein Schatten der Zivilisation sind welche einst existierte
+- Wir kommen zur Ziggurat und merken, dass das ganze Gebäude aus menschlichen Schädeln erbaut ist
+	- Sind die Schädel von erwürdigen Gefallenen, welche es verdient haben hier zu sein
+- Wir warten in einer Empfangshalle um einen Tisch bis der Häuptling zurückkommt mit einem Schädel welcher auf dem Tisch präsentiert wird und abgelegt wird
+	- Bekommen Essen und Trinken
+	- Schädel des Bruders (nicht leiblich)
+	- Machen einen Händekreis und schaukeln uns in eine Trance
+	- Wir bekommen auf einmal kalte Panik als alles Schwarz ist und wir sehen einen Himmel vor uns mit 4 großen Gestirnen und eine schwarze Wolke, welche wie Zacken (5 Zacken) alle 4 Gestirne angreift
+		- Ein lila Komet taucht auf, welcher versucht der Wolke zu entkommen
+		- Sehen wie etwas auf den Betrachter zufällt und alles schwarz wird
+		- Danach sehen wir eine vergläserte Welt und alles wird schwarz
+	- Danach kommen wir schweißgebadet zurück
+- Kommt mit einem weiteren Schädel
+	- Dieses Mal startet es nicht mit Panik, sondern mit Ungewissheit
+	- Sichtfeld ist eingeschränkt und schauen aus der Froschperspektive, alles wird heiß, dann Schwarz
+	- Unsere Füße laufen über Glas, wir hüpfen und springen, alles Schwarz
+	- Wir rollen über einen Rasen zwischen Pflanzen, alles Schwarz
+	- Glasklarer Himmel über uns mit 4 Gestirnen, ein lila Komet, Sichtfeld ändert sich und es wird drückend heiß, Komet fährt durch einen der Himmelskörper, alles Schwarz
+	- Blick im Himmel, drei Himmelskörper, eine schwarze Wolke welche sich ausbreitet, Vision Ende
+- Erste Vision geht "vorwärts", zweite Vision geht "rückwärts", das eine Beginnt mit Glas, das zweite endet mit Glas
+	- Erste Vision ist aus Sicht eines Erwachsenen, zweite Vision ist die eines Kindes
+	- Die Welt hat sich der Vergläserung wieder normalisiert und dann taucht der zweite Komet erneut auf
+- Wie hängt der Komet mit der schwarzen Wolke/Hand zusammen?
+	- Komet ist unser Schiff, lila Komet => lila Dämmerlilie Schiff
+	- Hat die [[Haus Dämmerlilien]] den Planet schon mal in der Vergangenheit verglast?
+- Um mehr herauszufinden sollen wir nach Norden und Osten reisen um mehr von seinen Brüdern zu erfahren, denn er hat schon länger nicht von ihnen gehört
+- Vor unserer Reise können wir uns im Dorf ausruhen bis [[Rascha]] wieder kommt
+- Bekommen eine Full Night Rest, jedoch taucht auf einmal jemand bei uns in der Hütte auf
+	- [[Rascha]] steht auf einmal im Raum, weist uns an dass wir flüstern sollen
+	- Ihre Jagd war nicht erfolgreich und sie muss direkt weiter, sie dankt uns und gibt uns einen kleinen Beutel mit Anhänger für jeden für uns
+		- Anhänger zum Verstehen der Dorfbewohner (Comprehend Language)
+	- Sie sagt wir sollen die Verbündeten im Osten suchen, [[Shaktir]] sollen wir warnen und um Hilfe bitten
+	- Sie will nicht, dass ihre Familie (Dorfbewohner) von ihren Aktionen erfährt, danach verschwindet sie => weniger Vertuschung und mehr dass sich keiner Sorgt
+- Richtung Osten geht es in die Wüste, bekommen vom Häuptling ein Teleportcode um uns näher zu Wüstennähe zu teleportieren
+	- Warnen uns dass das Volk im Osten sehr vorsichtig ist, gerade in diesen Zeiten
+	- Ein Kennzeichen von ihnen sind Flugsaurier in welche sie sich durch Beastform verwandeln können
+	- Ziel ist das Volk mit einem Heiligtum im Osten zu finden und herauszufinden wieso das Netzwerk nicht mehr so gut funktioniert
+		- Heiligtum des Tages => [[Quicktravel Waypoint]]
+- Gehen durch das Portal und kommen an einem feucht, schwülem Ort raus
+	- Viel Urtümlicher, riesige Ranken und Dornen, fast ein anderer Maßstab
+	- Sehr angepasste Natur: Schwammartige Rinde um Wasser auszusaugen, Kakteen, Sukkulenten, dafür ausgelegt Dürreperioden zu überleben
+	- Schlüsselblume sieht hier aus wie ne Rose von Jericho
+- Sind von einem Dino weggerannt und gegen eine Fleischfressende Pflanze und zwei Käfer gekämpft
+- Haben die Wüste gefunden
+- Haben eine Glasfläche in der Wüste gefunden
+	- Lebewesen sind im Glas versteinert und der Sand fühlt sich sehr fein ein, wie Sandglas
+	- Finden einen schwarzen Brustkorb welcher im Glas eingeschmolzen ist
+	- In dem Glas ist eine lange Stangenwaffe eingeschmolzen => Waffe von den [[Haus Dämmerlilien]]? Zumindest sieht es grob so aus und der Brustkorb ist auch eher größer als ein normaler Mensch
+	- Im Brustkorb ist ein Ring um einen Knochen gewachsen, gleicher Ring wie [[Fraziskus Ratford - David]] um den Finger gewachsen ist
+- Irgendwas gleitet durch die Luft und von einer Düne scheint etwas weggeflogen zu sein, aber mehr haben wir im Hitzeflimmer nicht erkannt
+- Bewegen uns zur Düne und finden eine Markierung auf dem Boden
+	- Markierung von Erkundibert
+
+
+![[Kumulierter Loot]]

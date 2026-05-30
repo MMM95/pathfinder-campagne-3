@@ -1,0 +1,2 @@
+- Wegpunkt zur Brücke wo [[Rascha]] ist (Dorf der Ureinwohner)
+- Wegpunkt Richtung Wüste im Osten

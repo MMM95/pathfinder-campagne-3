@@ -34,6 +34,7 @@ Anwesend:
 - Mehrere Parteien Kämpfen, irgendwas großes Kämpft (große Baumgestalt) gegen kleinere Parteien (6 verschiedene, schwarze humanoide Gestalten)
 - Irgend ein Kreischen als würde etwas verwundet werden, fast wie ein Kind das Kreischt
 - Schwarze humanoide Gestalten stechen in schreiende Salatköpfe
+- Gestalten sind Mondkultisten
 
 # Nach Kampf, weiter Ebene 2
 - Nach dem Kampf haben wir mit dem Ent geredet und er sagt, dass es noch mehr "Parasiten" im Bau sind
