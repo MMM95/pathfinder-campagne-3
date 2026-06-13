@@ -75,7 +75,7 @@ Anwesend:
 	- Im Brustkorb ist ein Ring um einen Knochen gewachsen, gleicher Ring wie [[Fraziskus Ratford - David]] um den Finger gewachsen ist
 - Irgendwas gleitet durch die Luft und von einer Düne scheint etwas weggeflogen zu sein, aber mehr haben wir im Hitzeflimmer nicht erkannt
 - Bewegen uns zur Düne und finden eine Markierung auf dem Boden
-	- Markierung von Erkundibert
+	- Markierung von [[Erkundibert]]
 
 
 ![[Kumulierter Loot]]
