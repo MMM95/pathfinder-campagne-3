@@ -16,12 +16,12 @@
 - Wand of Detect Animals or Plants
 - Wand of Stabilize
 - [Ring of Arcane Signets](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Arcane%20Signets)
-- Ring of Protection
 - [Rope Trick Rope](https://www.d20pfsrd.com/magic/all-spells/r/rope-trick/)
+- Sonnenamulett aus Dungeon von [[Session 5 - 2026.06.13]]
 
 # Sonstiges
 - Gems (1152gp)
 - Bronzearmreif
-- Bag of Holding aus Menschenhaut
-- Schriftrolle aus Menschenhaut mit Motiv aus [[Session 5 - 2026.06.13]]
-- Trophäenköpfe mitgenommen ([[Session 5 - 2026.06.13]])
+- Cursed Bag of Holding aus Menschenhaut (hat [[Arthan - Benny]])
+	- Schriftrolle aus Menschenhaut mit Motiv aus [[Session 5 - 2026.06.13]]
+	- Trophäenköpfe mitgenommen ([[Session 5 - 2026.06.13]])

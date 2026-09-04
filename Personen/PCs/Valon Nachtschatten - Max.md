@@ -17,3 +17,14 @@
 	- Sehr schmuckreiches Auftreten
 	- Verzeiht (empfundene) Beleidigungen nur schwer und erwartet eine gewissen Hochachtung
 
+# Levelling
+## Level 1
+- **Feat**: Spell Focus (Evocation)
+## Level 2
+- **Favoured Class Bonus:** 1HP
+## Level 3
+- **Feat:** [Spell Specialization](https://www.d20pfsrd.com/feats/general-feats/spell-specialization/) auf Burning Hands, später auf Fireball
+- **Focus Power:** Unseen
+- **HP:** Roll = 3, dadurch 4 HP wegen minimum Hälfte
+- **Favoured Class Bonus:** 1HP
+

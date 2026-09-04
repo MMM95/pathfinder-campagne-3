@@ -6,7 +6,7 @@ Anwesend:
 
 # Start der Session
 - Sind in der Wüste, das UFO (nicht wirklich UFO, eher so ein Gleitfahrzeug) war Richtung Dschungel geflogen
-- Leichte Magische Überreste deuten auf Arcanotech hin, fliegt in Schallgeschwindigkeit
+- Leichte Magische Überreste deuten auf Arcanotech hin, fliegt in ÜberSchallgeschwindigkeit
 - [[Victor Lambart - Mo]] klettert auf einen Baum um sich umzuschauen und es scheint als wäre der Blick in Richtung Norden leicht getrübt, als wäre da eine Wolke o.ä.
 	- In Richtung Osten ist die Sicht besser und es scheinen irgendwelche Objekte in der Richtung
 	- "Objekt" in diesem Fall eine Schlucht, Canyon, o.ä. irgend eine größere Struktur
@@ -68,13 +68,13 @@ Anwesend:
 		- Edelsteine, Amulett mit Sonnenmotiv, vermutlich von den Ureinwohnern
 		- Ich fühle mich verstärkt, als ich das Amulett anziehe
 	- Der Tote hat "Trophäen", also abgetrennte Köpfe von unseren kupferhäutigen Kumpels
-	- Der Tote sah genauso aus wie [[Kriegspriester Vorel]]?! => Vorherige Manifestation oder 1:1 Kopie
 	- Loot bekommen:
 		- 400gp
 		- Ring of Prot
 		- Ring of Arcane Signets
 		- Wand of Stabilize
 - Wir haben das Phylakterie kaputt gemacht und werden aus dem Sandgrab von einer Gruppe Ureinwohner gerettet
+	- Der Outsider hat trotzdem gesprochen, vielleicht war die Phylakterie doch nicht von dem Outsider
 - Befinden uns in einem Canyon aus rotem Stein, Sonnen sind hier hintereinander, große Sonne und davor eine kleine Sonne
 - Bevor wir fragen können, sagen die Ureinwohner dass wir leise sein sollen und deuten nach oben, dort fliegen solche Speeder vorbei
 - Führen uns zur Canyonwand wo wie ein Termitennest Wohnbereiche sind
@@ -82,7 +82,7 @@ Anwesend:
 - Erzählen uns dass unter der Erde auch das Land der Entehrten (Unehrenhaften Toten) ist, der Sand bedeckt die Überreste zweier Zivilisationen
 	- Zivilisation 1: Menschen der Sonne und Menschen der Nacht
 	- Zivilisation 2: [[Haus Dämmerlilien]]
-- Führen einen Kampf gegen [[Haus Dämmerlilien]]
+- Ureinwohner führen einen Kampf gegen [[Haus Dämmerlilien]]
 - Long Rest
 
 ![[Kumulierter Loot]]

@@ -1,0 +1,89 @@
+Anwesend:
+- [[Fraziskus Ratford - David]]
+- [[Victor Lambart - Mo]]
+- [[Murin Yaga - Max]]
+- [[Valon Nachtschatten - Max]]
+- [[Arthan - Benny]]
+
+# Start der Session
+- Suchen weiterhin nach dem Heiligtum, die Ureinwohner wollen uns dahin bringen, können selber aber nicht rein
+- Ursprüngliche Mission: Die Verbindung über das Wurzelnetzwerk ist hierher abgebrochen und wir sollen mit dem obersten Druiden reden der im Heiligtum ist
+- Fliegen mit Flugsaurier durch die Canyons, ich kotze und verfehle alle bis auf den Begleiter von [[Arthan - Benny]]
+	- Die Reise zieht sich 2-3h und fliegen durch die Canyons um nicht aufzufallen
+	- Sind einige Fluggleiter unterwegs, so grob 13 Stück, deutlich mehr als vorher
+- Kommen in einen größeren Basin, der ganze Boden ist komisch zergläsert, teilweise natürlich, teilweise durch wie Blitzeinschläge (sehr große Gewalteinwirkung)
+	- In der Mitte ist eine große Felsnadel (Heiligtum) die fast wie ein Skelettfinger wirkt und höher hinaus ragt als die Canyon Wände
+	- In dem Talkessel ist es extrem heiß und es sind keinerlei Befestigungen irgendwo, vermutlich alles in Höhlen o.ä.
+	- Es sieht aus als wäre etwas bei der Spitze des Heiligtum kaputt gegangen
+- Bringen uns in einen Unterschlupf in dem Basin und erklären uns bereit, dass wir zum Heiligtum Eingang gebracht werden können
+	- Im Unterschlupf sind eine ganze Ladung anderer Flugsaurier
+- Werden am Sockel vom Finger abgesetzt
+- Untersuche die Wand mit **Object Reading** und ich fange an das Sonnenamulett anzufassen
+	- Meine Hände gleiten stroboartig von der Wand an das Amulett
+	- Das Amulett ist sehr stark divine Magisch, was meine Aufmerksamkeit auf das Amulett gezogen hat
+	- Ich hebe das Amulett an die Wand, [[Victor Lambart - Mo]] leuchtet mit seinem Spiegel auf das Amulett und es öffnet sich eine verborgene Tür
+	- [[Victor Lambart - Mo]] ist natürlich sehr überzeugt dass er die Tür geöffnet hat und ich weil als Adliger ich sowieso keine Türen selber öffne
+	- Die Luft drinnen ist stickig, abgestanden und wir betreten den Gang
+		- Der Gang endet in einem kreisförmigen Zimmer was wie eine Miniatur von dem Canyon und Basin wirkt, also auch mit einem Sockel in der Mitte
+		- Zwei Sonnenuhren auf dem Sockel in der Mitte, als [[Arthan - Benny]] es anfässt zerbröckelt es und wirkt beschädigt wie der Skelettfingerfels außen
+		- Lösen das Rätsel mit dem Heat Metal Spell der auf dem ganzen Raum liegt, indem wir Kontakt mit den Metalladern im Felsen aufnehmen und es "zusammenlöten"
+- Nach dem Rätsel dreht sich der Ausgang des Raumes in eine andere Richtung und eine Art Rutsche offenbart sich
+	- Wir rutschen runter und ich (Nat 1) und der Begleiter "fließen" in den Boden und wir werden am Anfang der Rutsche "wiedergespawnt" => sehr schmerzhaft
+	- Ich verwende Rope-Trick Rope und klettere damit runter
+- Hören drei langsame Klatscher, hinter uns öffnet sich ein Raum und ich realisiere, dass das Klatschen von 6 Steinvipern (?) ist
+	- Initiative (10)
+	- Haben den Raum gecleared
+- Gehen in den nächsten Raum, es wird wärmer und der Raum wirkt als wäre einer hier gewesen, irgendwie "Erinnerungsschwanger"
+	- Gibt keine weiteren Wege weg von hier
+	- Fühlt sich an als wären wir an einem Scheidepunkt/Crossroad
+	- In der Raummitte schwebt ein Hologram von einem riesigen Menschen (Schürze, dunkel gebrannt, Schneidersitz) 
+		- Über dem Rücken hat er einen riesigen Stab, der oben abgebrochen scheint
+	- Eine Stimme ertönt: "Eine Frage, eine Antwort"
+		- "Wie finden wir den Weg zu dem physischen Ort des Häuptlings" => Traum
+- Wir setzten uns zu dem Hologram und meditieren/schlafen und wir die Träumen ([[Victor Lambart - Mo]] und ich) werden irgendwo hin transportiert
+- Sehen eine Vision aus 3 Teilen:
+	- Schwarze Hand die nach einer Lilie greift und droht sie zu zerdrücken
+		- => Ziel von der schwarzen Hand
+	- Sehen eine Lilie die aus einem steinernen Krug wächst und aus diesem zehrt und er droht zu zerbröseln
+		- => Ziel von der Lilie, Krug = Erde und der Hals ist der Vulkan
+	- Schwarze Hand welche sich einer Lilie nähert und die Lilie sich dem Krug nähert
+- Anordnung der Visionen:
+	- Lilie zerdrückt => Lilie saugt Vulkan => Hand, Lilie, Krug => Lilie zerdrückt => ...
+- Wählen die Vision der Gegenwart (Lilie saugt Vulkan) und befinden uns in einer absoluten Dunkelheit
+	- Ich hole das Sonnenamulett raus und auf einmal wird alles hell
+	- Ich bekomme Migräne und es haut mich weg, wie ein Vacuum was sich auflöst
+- Wir liegen in einer kuppelartigen Halle aus bearbeiteten Sandstein die unfassbar groß ist, so dass die Decke fast schon verschwimmt
+	- Überall sind Wandmalereien, welche beim genaueren Betrachten leicht verschwimmt
+	- In der Mitte des Raums ist eine leuchtende Kugel welche von einer Kleineren umkreist wird => Wie die zwei Sonnen um den Planeten 
+	- Die zwei Sonnen sind irgendwas göttliches
+- Haben eine Frage die wir stellen dürfen: "Ist die Dunkle Hand etwas was wir aufhalten sollen"
+	- Bekommen eine Vision:
+		- 5 Blumen hingeführt, vier große eine kleine, die kleine parasitär umschlingen von den Anderen
+		- 5 Blumen, vier große, die kleinste Blume wird von der schwarzen Hand "unterstützt"
+		- Weitere Bilder, wo die anderen Blumen verschwinden und die schwarze Hand Blume immer größer wird
+		- Bild wo die Hand deutlich größer ist als die Blume und sie wie eine fordernde Hand wirkt
+		- Weitere Bilder wo die Hand weiter fordert
+		- Ein letztes Bild wo die Hand zu einer Kralle wird
+	- Die Lilie greift nach mehrere Kugeln, welche eine Marmor Struktur haben => Planeten
+		- Die Kugeln gehen kaputt
+- => Interpretation:
+	- [[Haus Dämmerlilien]] wurde von anderen Häusern (o.ä.) unterdrückt und hat mit einem Wesen (?) der Schwarzen Hand ein Deal geschlossen wodurch das Haus groß und stark wurde
+	- Dann fordert die Hand einen Tribut/Zahlung und die Lilie will/kann nicht zahlen worauf der Konflikt zwischen Hand und Lilie beginnt
+	- Ein andauernder Konflikt, wo die Hand ständig verfolgt und Haus Dämmerlilie immer weiter/wieder erobert
+- [[Victor Lambart - Mo]] findet einen Torbogen und bewegt sich auf diesen zu, jeder andere findet einen anderen Torbogen, aber wir finden alle zusammen (wie die Escher Treppen)
+	- Auf dem Torbogen steht "Die Prüfung des Geistes ist beendet"
+- Kommen in einen Raum in dem es schwitzig riecht
+	- In der Mitte des Raumes ist wie eine Hantelbank
+	- [[Victor Lambart - Mo]] macht nach langem Grübeln eine Liegestütze auf der Hantelbank und löst damit das Rätsel
+	- "Prüfung des Körpers ist beendet"
+- Nächster Raum:
+	- Die Wand vor uns ist sehr glatt und es taucht vor uns ein paar Sachen auf: Steinmetzzeug
+	- Hauen zwei Sonnen und zwei Monde hin, jedoch ist es nicht im Gleichgewicht und kippelt
+	- Streichen dann einen Mond durch, da ja einer fehlt und es "rastet" ein, eine Tür öffnet sich an der Mond Seite
+- Ende Session
+- Jeder bekommt 1000 EXP und Team Liegestütze ([[Victor Lambart - Mo]], [[Murin Yaga - Max]]) 500 mehr, jeder der eine Liegestütze IRL gemacht hat, bekommt 300 extra
+
+# Sonstiges
+![[Kumulierter Loot]]
+
+![[Insel Map]]
